@@ -77,7 +77,7 @@ Identify the required Crop's Fertilizer effortlessly with our advanced predictio
 
 Discover more about our mission, team, and the technology behind the system on the **About** page.
 
-Join us in safeguarding crops and promoting healthier harvests with the Plant Disease Recognition System.
+Join us in safeguarding crops and promoting healthier harvests with our another initiative of [Plant Disease Recognition](https://plantdiseaseprediction-jb29lbyqjxenfeg6lbfar7.streamlit.app/) System.
     """)
 
 # About Project
