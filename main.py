@@ -73,7 +73,7 @@ Identify the required Crop's Fertilizer effortlessly with our advanced predictio
 ## 📖 Contributors. 
                 
 ### [Siddhant Patil](https://1543siddhant.github.io/Portfolio/)
-### [Rahul Raut](https://1543siddhant.github.io/Portfolio/)
+### [Rahul Raut](https://codebyte156.github.io/home/)
 
 Discover more about our mission, team, and the technology behind the system on the **About** page.
 
