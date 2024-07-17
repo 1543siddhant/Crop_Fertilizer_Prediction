@@ -74,7 +74,7 @@ Identify the required Crop's Fertilizer effortlessly with our advanced predictio
 # About Project
 elif app_mode == "About":
     st.header("About")
-    st.markdown("""
+    st.markdown
                 ## 🗂️ About the Dataset
 
 The dataset used for this model is from the [Fertilizer Prediction dataset](https://www.kaggle.com/datasets/gdabhishek/fertilizer-prediction/data) available on Kaggle. It contains data on various factors affecting the choice of fertilizer for crops, including temperature, humidity, moisture, soil type, crop type, and the levels of nitrogen, potassium, and phosphorus. The target variable is the type of fertilizer recommended for the given conditions.
