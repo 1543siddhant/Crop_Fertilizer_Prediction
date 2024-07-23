@@ -1,5 +1,7 @@
 # Crop's Fertilizer Prediction System
 
+🔗 https://cropfertilizerprediction-3u4ywopeqzfvje9yvfkzzn.streamlit.app/
+
 Welcome to the Crop's Fertilizer Prediction System! This project aims to help farmers identify the required fertilizer for their crops effortlessly using a machine learning model. By providing key input features such as temperature, humidity, soil type, and crop type, the system can predict the appropriate fertilizer to enhance crop yield and sustainability.
 
 ## Table of Contents
@@ -72,4 +74,19 @@ The machine learning model was developed with the following key steps:
     pip install -r requirements.txt
     ```
 4. Ensure that you have the `classifier.pkl` and `fertilizer.pkl` files in the project directory.
+
+5. ## Usage
+
+1. Run the Streamlit application:
+    ```bash
+    streamlit run app.py
+    ```
+2. Open your web browser and navigate to `http://localhost:8501`.
+3. Use the sidebar to navigate between the Home, About, and Fertilizer Prediction pages.
+4. On the Fertilizer Prediction page, input the required values for temperature, humidity, moisture, soil type, crop type, nitrogen, potassium, and phosphorus.
+5. Click the "Predict" button to get the recommended fertilizer.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code follows the project's coding standards and includes appropriate tests.
 
